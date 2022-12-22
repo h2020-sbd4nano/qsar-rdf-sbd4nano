@@ -1,0 +1,278 @@
+CID,MolecularFormula,CanonicalSMILES,InChI,InChIKey,IUPACName,nm_unique
+9845,C4F6O3,C(=O)(C(F)(F)F)OC(=O)C(F)(F)F,"InChI=1S/C4F6O3/c5-3(6,7)1(11)13-2(12)4(8,9)10",QAEDZJGFFMLHHQ-UHFFFAOYSA-N,"(2,2,2-trifluoroacetyl) 2,2,2-trifluoroacetate",Trifluoroacetic anhydride
+76074,C4Cl2F4O3,C(=O)(C(F)(F)Cl)OC(=O)C(F)(F)Cl,"InChI=1S/C4Cl2F4O3/c5-3(7,8)1(11)13-2(12)4(6,9)10",VBJIFLOSOQGDRZ-UHFFFAOYSA-N,"(2-chloro-2,2-difluoroacetyl) 2-chloro-2,2-difluoroacetate",Chlorodifluoroacetic anhydride
+67742,C6F10O3,C(=O)(C(C(F)(F)F)(F)F)OC(=O)C(C(F)(F)F)(F)F,"InChI=1S/C6F10O3/c7-3(8,5(11,12)13)1(17)19-2(18)4(9,10)6(14,15)16",XETRHNFRKCNWAJ-UHFFFAOYSA-N,"2,2,3,3,3-pentafluoropropanoyl 2,2,3,3,3-pentafluoropropanoate",Pentafluoropropanoic anhydride
+87067,C6H8O3,CC1(CC(=O)OC1=O)C,"InChI=1S/C6H8O3/c1-6(2)3-4(7)9-5(6)8/h3H2,1-2H3",ACJPFLIEHGFXGP-UHFFFAOYSA-N,"3,3-dimethyloxolane-2,5-dione","3,3-Dimethyldihydrofuran-2,5-dione"
+7923,C4H2O3,C1=CC(=O)OC1=O,InChI=1S/C4H2O3/c5-3-1-2-4(6)7-3/h1-2H,FPYJFEHAWHCUMM-UHFFFAOYSA-N,"furan-2,5-dione","Furan-2,5-dione"
+12012,C5H4O3,CC1=CC(=O)OC1=O,"InChI=1S/C5H4O3/c1-3-2-4(6)8-5(3)7/h2H,1H3",AYKYXWQEBUNJCN-UHFFFAOYSA-N,"3-methylfuran-2,5-dione","3-Methylfuran-2,5-dione"
+13010,C6H6O3,CC1=C(C(=O)OC1=O)C,InChI=1S/C6H6O3/c1-3-4(2)6(8)9-5(3)7/h1-2H3,MFGALGYVFGDXIX-UHFFFAOYSA-N,"3,4-dimethylfuran-2,5-dione","3,4-Dimethylfuran-2,5-dione"
+74918,C12H22O3,CCCCCC(=O)OC(=O)CCCCC,"InChI=1S/C12H22O3/c1-3-5-7-9-11(13)15-12(14)10-8-6-4-2/h3-10H2,1-2H3",PKHMTIRCAFTBDS-UHFFFAOYSA-N,hexanoyl hexanoate,Hexanoic anhydride
+20051,C5H6O3,CC1CC(=O)OC1=O,"InChI=1S/C5H6O3/c1-3-2-4(6)8-5(3)7/h3H,2H2,1H3",DFATXMYLKPCSCX-UHFFFAOYSA-N,"3-methyloxolane-2,5-dione","3-Methyldihydrofuran-2,5-dione"
+75498,C17H6O7,C1=CC2=C(C=C1C(=O)C3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O,InChI=1S/C17H6O7/c18-13(7-1-3-9-11(5-7)16(21)23-14(9)19)8-2-4-10-12(6-8)17(22)24-15(10)20/h1-6H,VQVIHDPBMFABCQ-UHFFFAOYSA-N,"5-(1,3-dioxo-2-benzofuran-5-carbonyl)-2-benzofuran-1,3-dione","5,5'-Carbonylbis(2-benzofuran-1,3-dione)"
+230976,C8H3NO5,C1=CC2=C(C=C1[N+](=O)[O-])C(=O)OC2=O,InChI=1S/C8H3NO5/c10-7-5-2-1-4(9(12)13)3-6(5)8(11)14-7/h1-3H,MMVIDXVHQANYAE-UHFFFAOYSA-N,"5-nitro-2-benzofuran-1,3-dione","5-Nitro-2-benzofuran-1,3-dione"
+69545,C8F4O3,C12=C(C(=C(C(=C1F)F)F)F)C(=O)OC2=O,InChI=1S/C8F4O3/c9-3-1-2(8(14)15-7(1)13)4(10)6(12)5(3)11,BJDDKZDZTHIIJB-UHFFFAOYSA-N,"4,5,6,7-tetrafluoro-2-benzofuran-1,3-dione","4,5,6,7-Tetrafluoro-2-benzofuran-1,3-dione"
+96580,C8H4O4,C1=CC2=C(C(=C1)O)C(=O)OC2=O,"InChI=1S/C8H4O4/c9-5-3-1-2-4-6(5)8(11)12-7(4)10/h1-3,9H",CCTOEAMRIIXGDJ-UHFFFAOYSA-N,"4-hydroxy-2-benzofuran-1,3-dione","4-Hydroxy-2-benzofuran-1,3-dione"
+220977,C10H10O3,C1CC2C=CC1C3C2C(=O)OC3=O,"InChI=1S/C10H10O3/c11-9-7-5-1-2-6(4-3-5)8(7)10(12)13-9/h1-2,5-8H,3-4H2",YIHKILSPWGDWPR-UHFFFAOYSA-N,"4-oxatricyclo[5.2.2.02,6]undec-8-ene-3,5-dione","4-Oxatricyclo[5.2.2.02,6]undec-8-ene-3,5-dione"
+78480,C8H4ClNO3,C1=CC2=C(C=C1Cl)C(=O)OC(=O)N2,"InChI=1S/C8H4ClNO3/c9-4-1-2-6-5(3-4)7(11)13-8(12)10-6/h1-3H,(H,10,12)",MYQFJMYJVJRSGP-UHFFFAOYSA-N,"6-chloro-1H-3,1-benzoxazine-2,4-dione","6-Chloro-2H-3,1-benzoxazine-2,4(1H)-dione"
+65729,C7H4O4S,C1=CC=C2C(=C1)C(=O)OS2(=O)=O,"InChI=1S/C7H4O4S/c8-7-5-3-1-2-4-6(5)12(9,10)11-7/h1-4H",NCYNKWQXFADUOZ-UHFFFAOYSA-N,"1,1-dioxo-2,1lambda6-benzoxathiol-3-one","3H-2,1-benzoxathiol-3-one 1,1-dioxide"
+70728,C4Cl2O3,C1(=C(C(=O)OC1=O)Cl)Cl,InChI=1S/C4Cl2O3/c5-1-2(6)4(8)9-3(1)7,AGULWIQIYWWFBJ-UHFFFAOYSA-N,"3,4-dichlorofuran-2,5-dione","3,4-Dichlorofuran-2,5-dione"
+97914,C6H6O4S,CC(=O)SC1CC(=O)OC1=O,"InChI=1S/C6H6O4S/c1-3(7)11-4-2-5(8)10-6(4)9/h4H,2H2,1H3",AHTFMWCHTGEJHA-UHFFFAOYSA-N,"S-(2,5-dioxooxolan-3-yl) ethanethioate","S-(2,5-dioxotetrahydrofuran-3-yl) ethanethioate"
+70334,C8H2Cl2O3,C1=C2C(=CC(=C1Cl)Cl)C(=O)OC2=O,InChI=1S/C8H2Cl2O3/c9-5-1-3-4(2-6(5)10)8(12)13-7(3)11/h1-2H,ULSOWUBMELTORB-UHFFFAOYSA-N,"5,6-dichloro-2-benzofuran-1,3-dione","5,6-Dichloro-2-benzofuran-1,3-dione"
+98484,C8H6O4,C1=CC2C3C(C1O2)C(=O)OC3=O,InChI=1S/C8H6O4/c9-7-5-3-1-2-4(11-3)6(5)8(10)12-7/h1-6H,QQYNRBAAQFZCLF-UHFFFAOYSA-N,"4,10-dioxatricyclo[5.2.1.02,6]dec-8-ene-3,5-dione","4,10-Dioxatricyclo[5.2.1.02,6]dec-8-ene-3,5-dione"
+102679,C12H8O6,C1=CC2C3C(C1C4C2C(=O)OC4=O)C(=O)OC3=O,InChI=1S/C12H8O6/c13-9-5-3-1-2-4(7(5)11(15)17-9)8-6(3)10(14)18-12(8)16/h1-8H,XLOGCGOPKPCECW-UHFFFAOYSA-N,"4,10-dioxatetracyclo[5.5.2.02,6.08,12]tetradec-13-ene-3,5,9,11-tetrone","Bicyclo[2.2.2]-7-octene-2,3,5,6-tetracarboxylic Dianhydride"
+6810,C8H8O3,C1C=CCC2C1C(=O)OC2=O,"InChI=1S/C8H8O3/c9-7-5-3-1-2-4-6(5)8(10)11-7/h1-2,5-6H,3-4H2",KMOUUZVZFBCRAM-UHFFFAOYSA-N,"3a,4,7,7a-tetrahydro-2-benzofuran-1,3-dione","3a,4,7,7a-Tetrahydro-2-benzofuran-1,3-dione"
+72794,C14H8O3,C1=CC=C2C(=C1)C3=CC=CC=C3C(=O)OC2=O,InChI=1S/C14H8O3/c15-13-11-7-3-1-5-9(11)10-6-2-4-8-12(10)14(16)17-13/h1-8H,RTSGJTANVBJFFJ-UHFFFAOYSA-N,"benzo[d][2]benzoxepine-5,7-dione","Dibenz(c,e)oxepin-5,7-dione"
+69527,C24H46O3,CCCCCCCCCCCC(=O)OC(=O)CCCCCCCCCCC,"InChI=1S/C24H46O3/c1-3-5-7-9-11-13-15-17-19-21-23(25)27-24(26)22-20-18-16-14-12-10-8-6-4-2/h3-22H2,1-2H3",NWADXBLMWHFGGU-UHFFFAOYSA-N,dodecanoyl dodecanoate,Lauric anhydride
+11089,C9H4O5,C1=CC2=C(C=C1C(=O)O)C(=O)OC2=O,"InChI=1S/C9H4O5/c10-7(11)4-1-2-5-6(3-4)9(13)14-8(5)12/h1-3H,(H,10,11)",SRPWOOOHEPICQU-UHFFFAOYSA-N,"1,3-dioxo-2-benzofuran-5-carboxylic acid","1,3-Dioxo-1,3-dihydro-2-benzofuran-5-carboxylic acid"
+88069,C9H6O3,CC1=CC2=C(C=C1)C(=O)OC2=O,"InChI=1S/C9H6O3/c1-5-2-3-6-7(4-5)9(11)12-8(6)10/h2-4H,1H3",ZOXBWJMCXHTKNU-UHFFFAOYSA-N,"5-methyl-2-benzofuran-1,3-dione","5-Methyl-2-benzofuran-1,3-dione"
+21631,C8H3NO5,C1=CC2=C(C(=C1)[N+](=O)[O-])C(=O)OC2=O,InChI=1S/C8H3NO5/c10-7-4-2-1-3-5(9(12)13)6(4)8(11)14-7/h1-3H,ROFZMKDROVBLNY-UHFFFAOYSA-N,"4-nitro-2-benzofuran-1,3-dione","4-Nitro-2-benzofuran-1,3-dione"
+12801,C9H6O3,C1C2=CC=CC=C2C(=O)OC1=O,"InChI=1S/C9H6O3/c10-8-5-6-3-1-2-4-7(6)9(11)12-8/h1-4H,5H2",AKHSBAVQPIRVAG-UHFFFAOYSA-N,"4H-isochromene-1,3-dione","1H-isochromene-1,3(4H)-dione"
+7940,C5H6O3,C1CC(=O)OC(=O)C1,InChI=1S/C5H6O3/c6-4-2-1-3-5(7)8-4/h1-3H2,VANNPISTIUFMLH-UHFFFAOYSA-N,"oxane-2,6-dione","Dihydro-2H-pyran-2,6(3H)-dione"
+513917,C10H12N2O6,C1C(=O)OC(=O)CN1CCN2CC(=O)OC(=O)C2,InChI=1S/C10H12N2O6/c13-7-3-11(4-8(14)17-7)1-2-12-5-9(15)18-10(16)6-12/h1-6H2,POLIXZIAIMAECK-UHFFFAOYSA-N,"4-[2-(2,6-dioxomorpholin-4-yl)ethyl]morpholine-2,6-dione","4,4'-Ethane-1,2-diyldimorpholine-2,6-dione"
+8359,C8H5NO3,C1=CC=C2C(=C1)C(=O)OC(=O)N2,"InChI=1S/C8H5NO3/c10-7-5-3-1-2-4-6(5)9-8(11)12-7/h1-4H,(H,9,11)",TXJUTRJFNRYTHH-UHFFFAOYSA-N,"1H-3,1-benzoxazine-2,4-dione","2H-3,1-benzoxazine-2,4(1H)-dione"
+25160,C9H7NO3,CN1C2=CC=CC=C2C(=O)OC1=O,"InChI=1S/C9H7NO3/c1-10-7-5-3-2-4-6(7)8(11)13-9(10)12/h2-5H,1H3",KJMRWDHBVCNLTQ-UHFFFAOYSA-N,"1-methyl-3,1-benzoxazine-2,4-dione","1-Methyl-2H-3,1-benzoxazine-2,4(1H)-dione"
+12475,C8H8O3,C1CCC2=C(C1)C(=O)OC2=O,InChI=1S/C8H8O3/c9-7-5-3-1-2-4-6(5)8(10)11-7/h1-4H2,HMMBJOWWRLZEMI-UHFFFAOYSA-N,"4,5,6,7-tetrahydro-2-benzofuran-1,3-dione","4,5,6,7-Tetrahydro-2-benzofuran-1,3-dione"
+95411,C8H8O7,CC(=O)OC1C(C(=O)OC1=O)OC(=O)C,"InChI=1S/C8H8O7/c1-3(9)13-5-6(14-4(2)10)8(12)15-7(5)11/h5-6H,1-2H3",XAKITKDHDMPGPW-UHFFFAOYSA-N,"(4-acetyloxy-2,5-dioxooxolan-3-yl) acetate","2,5-Dioxotetrahydrofuran-3,4-diyl diacetate"
+12443,C8Br4O3,C12=C(C(=C(C(=C1Br)Br)Br)Br)C(=O)OC2=O,InChI=1S/C8Br4O3/c9-3-1-2(8(14)15-7(1)13)4(10)6(12)5(3)11,QHWKHLYUUZGSCW-UHFFFAOYSA-N,"4,5,6,7-tetrabromo-2-benzofuran-1,3-dione","4,5,6,7-Tetrabromo-2-benzofuran-1,3-dione"
+85689,C8H10O3,C1CCC2C(C1)C(=O)OC2=O,"InChI=1S/C8H10O3/c9-7-5-3-1-2-4-6(5)8(10)11-7/h5-6H,1-4H2",MUTGBJKUEZFXGO-UHFFFAOYSA-N,"3a,4,5,6,7,7a-hexahydro-2-benzofuran-1,3-dione","Hexahydro-2-benzofuran-1,3-dione"
+2733254,C4H4I2O3,C(C(=O)OC(=O)CI)I,InChI=1S/C4H4I2O3/c5-1-3(7)9-4(8)2-6/h1-2H2,RBNSZWOCWHGHMR-UHFFFAOYSA-N,(2-iodoacetyl) 2-iodoacetate,Iodoacetic anhydride
+10946,C4H4Cl2O3,C(C(=O)OC(=O)CCl)Cl,InChI=1S/C4H4Cl2O3/c5-1-3(7)9-4(8)2-6/h1-2H2,PNVPNXKRAUBJGW-UHFFFAOYSA-N,(2-chloroacetyl) 2-chloroacetate,Chloroacetic anhydride
+8265,C9H2Cl6O3,C12C(C(=O)OC1=O)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,"InChI=1S/C9H2Cl6O3/c10-3-4(11)8(13)2-1(5(16)18-6(2)17)7(3,12)9(8,14)15/h1-2H",FLBJFXNAEMSXGL-UHFFFAOYSA-N,"1,7,8,9,10,10-hexachloro-4-oxatricyclo[5.2.1.02,6]dec-8-ene-3,5-dione","1,7,8,9,10,10-Hexachloro-4-oxatricyclo[5.2.1.02,6]dec-8-ene-3,5-dione"
+69339,C32H62O3,CCCCCCCCCCCCCCCC(=O)OC(=O)CCCCCCCCCCCCCCC,"InChI=1S/C32H62O3/c1-3-5-7-9-11-13-15-17-19-21-23-25-27-29-31(33)35-32(34)30-28-26-24-22-20-18-16-14-12-10-8-6-4-2/h3-30H2,1-2H3",QWZBEFCPZJWDKC-UHFFFAOYSA-N,hexadecanoyl hexadecanoate,Palmitic anhydride
+74960,C20H38O3,CCCCCCCCCC(=O)OC(=O)CCCCCCCCC,"InChI=1S/C20H38O3/c1-3-5-7-9-11-13-15-17-19(21)23-20(22)18-16-14-12-10-8-6-4-2/h3-18H2,1-2H3",HTWWKYKIBSHDPC-UHFFFAOYSA-N,decanoyl decanoate,Decanoic anhydride
+79743,C9H12O3,C1CCC2(C1)CC(=O)OC(=O)C2,InChI=1S/C9H12O3/c10-7-5-9(3-1-2-4-9)6-8(11)12-7/h1-6H2,GFWLMILMVMCJDI-UHFFFAOYSA-N,"8-oxaspiro[4.5]decane-7,9-dione","8-Oxaspiro[4.5]decane-7,9-dione"
+96196,C9H10O3,C1CC2CC1C3C2C(=O)OC3=O,"InChI=1S/C9H10O3/c10-8-6-4-1-2-5(3-4)7(6)9(11)12-8/h4-7H,1-3H2",LQOPXMZSGSTGMF-UHFFFAOYSA-N,"4-oxatricyclo[5.2.1.02,6]decane-3,5-dione","4-Oxatricyclo[5.2.1.02,6]decane-3,5-dione"
+8326,C8Cl4O3,C12=C(C(=C(C(=C1Cl)Cl)Cl)Cl)C(=O)OC2=O,InChI=1S/C8Cl4O3/c9-3-1-2(8(14)15-7(1)13)4(10)6(12)5(3)11,AUHHYELHRWCWEZ-UHFFFAOYSA-N,"4,5,6,7-tetrachloro-2-benzofuran-1,3-dione","4,5,6,7-Tetrachloro-2-benzofuran-1,3-dione"
+78218,C8H2Cl2O3,C1=CC(=C2C(=C1Cl)C(=O)OC2=O)Cl,InChI=1S/C8H2Cl2O3/c9-3-1-2-4(10)6-5(3)7(11)13-8(6)12/h1-2H,HEGLMCPFDADCAQ-UHFFFAOYSA-N,"4,7-dichloro-2-benzofuran-1,3-dione","4,7-Dichloro-2-benzofuran-1,3-dione"
+76247,C7H10O3,CC1(CCC(=O)OC1=O)C,"InChI=1S/C7H10O3/c1-7(2)4-3-5(8)10-6(7)9/h3-4H2,1-2H3",PAVNZLVXYJDFNR-UHFFFAOYSA-N,"3,3-dimethyloxane-2,6-dione","3,3-Dimethyldihydro-2H-pyran-2,6(3H)-dione"
+8060,C5H13N,CCCCCN,"InChI=1S/C5H13N/c1-2-3-4-5-6/h2-6H2,1H3",DPBLXKKOBLCELK-UHFFFAOYSA-N,pentan-1-amine,Pentan-1-amine
+7908,C6H15N,CC(C)CC(C)N,"InChI=1S/C6H15N/c1-5(2)4-6(3)7/h5-6H,4,7H2,1-3H3",UNBMPKNTYKDYCG-UHFFFAOYSA-N,4-methylpentan-2-amine,4-Methylpentan-2-amine
+15659773,C7H15NO4,C1C(C(C(C(C1O)N)O)O)CO,"InChI=1S/C7H15NO4/c8-5-4(10)1-3(2-9)6(11)7(5)12/h3-7,9-12H,1-2,8H2",PFDAVRXLZIYAFH-UHFFFAOYSA-N,"3-amino-6-(hydroxymethyl)cyclohexane-1,2,4-triol","3-Amino-6-(hydroxymethyl)cyclohexane-1,2,4-triol"
+8102,C6H15N,CCCCCCN,"InChI=1S/C6H15N/c1-2-3-4-5-6-7/h2-7H2,1H3",BMVXCPBXGZKUPN-UHFFFAOYSA-N,hexan-1-amine,Hexan-1-amine
+6385,C4H11N,CC(C)(C)N,"InChI=1S/C4H11N/c1-4(2,3)5/h5H2,1-3H3",YBRBMKDOPFTVDT-UHFFFAOYSA-N,2-methylpropan-2-amine,2-Methylpropan-2-amine
+6558,C4H11N,CC(C)CN,"InChI=1S/C4H11N/c1-4(2)3-5/h4H,3,5H2,1-2H3",KDSNLYIMUZNERS-UHFFFAOYSA-N,2-methylpropan-1-amine,2-Methylpropan-1-amine
+79882,C5H13N,CC(C)(C)CN,"InChI=1S/C5H13N/c1-5(2,3)4-6/h4,6H2,1-3H3",XDIAMRVROCPPBK-UHFFFAOYSA-N,"2,2-dimethylpropan-1-amine","2,2-Dimethylpropan-1-amine"
+7894,C5H13N,CC(C)CCN,"InChI=1S/C5H13N/c1-5(2)3-4-6/h5H,3-4,6H2,1-2H3",BMFVGAAISNGQNM-UHFFFAOYSA-N,3-methylbutan-1-amine,3-Methylbutan-1-amine
+12019,C5H13N,CCC(CC)N,"InChI=1S/C5H13N/c1-3-5(6)4-2/h5H,3-4,6H2,1-2H3",PQPFFKCJENSZKL-UHFFFAOYSA-N,pentan-3-amine,Pentan-3-amine
+68986,C5H13N,CCC(C)(C)N,"InChI=1S/C5H13N/c1-4-5(2,3)6/h4,6H2,1-3H3",GELMWIVBBPAMIO-UHFFFAOYSA-N,2-methylbutan-2-amine,2-Methylbutan-2-amine
+3301,C2H8N2,C(CN)N,InChI=1S/C2H8N2/c3-1-2-4/h1-4H2,PIICEJLVQHRZGT-UHFFFAOYSA-N,"ethane-1,2-diamine","Ethane-1,2-diamine"
+17386,C15H33N,CCCCCCCCCCCCCCCN,"InChI=1S/C15H33N/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16/h2-16H2,1H3",JPZYXGPCHFZBHO-UHFFFAOYSA-N,pentadecan-1-amine,Pentadecan-1-amine
+428,C3H10N2,C(CN)CN,InChI=1S/C3H10N2/c4-2-1-3-5/h1-5H2,XFNJVJPLKCPIBV-UHFFFAOYSA-N,"propane-1,3-diamine","Propane-1,3-diamine"
+1045,C4H12N2,C(CCN)CN,InChI=1S/C4H12N2/c5-3-1-2-4-6/h1-6H2,KIDHWZJUCRJVML-UHFFFAOYSA-N,"butane-1,4-diamine","Butane-1,4-diamine"
+16402,C6H16N2,C(CCCN)CCN,InChI=1S/C6H16N2/c7-5-3-1-2-4-6-8/h1-8H2,NAQMVNRVTILPCV-UHFFFAOYSA-N,"hexane-1,6-diamine","Hexane-1,6-diamine"
+7719,C8H19N,CCCCC(CC)CN,"InChI=1S/C8H19N/c1-3-5-6-8(4-2)7-9/h8H,3-7,9H2,1-2H3",LTHNHFOGQMKPOV-UHFFFAOYSA-N,2-ethylhexan-1-amine,2-Ethylhexan-1-amine
+8926,C16H35N,CCCCCCCCCCCCCCCCN,"InChI=1S/C16H35N/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17/h2-17H2,1H3",FJLUATLTXUNBOT-UHFFFAOYSA-N,hexadecan-1-amine,1-Hexadecylamine
+5603,C7H17N,CCCCCC(C)N,"InChI=1S/C7H17N/c1-3-4-5-6-7(2)8/h7H,3-6,8H2,1-2H3",VSRBKQFNFZQRBM-UHFFFAOYSA-N,heptan-2-amine,Heptan-2-amine
+16217,C14H31N,CCCCCCCCCCCCCCN,"InChI=1S/C14H31N/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15/h2-15H2,1H3",PLZVEHJLHYMBBY-UHFFFAOYSA-N,tetradecan-1-amine,Tetradecan-1-amine
+8111,C4H13N3,C(CNCCN)N,"InChI=1S/C4H13N3/c5-1-3-7-4-2-6/h7H,1-6H2",RPNUMPOLZDHAAY-UHFFFAOYSA-N,"N'-(2-aminoethyl)ethane-1,2-diamine","N-(2-Aminoethyl)ethane-1,2-diamine"
+86625,C11H19N,C1C2CC3CC1CC(C2)(C3)CN,"InChI=1S/C11H19N/c12-7-11-4-8-1-9(5-11)3-10(2-8)6-11/h8-10H,1-7,12H2",XSOHXMFFSKTSIT-UHFFFAOYSA-N,1-adamantylmethanamine,"Tricyclo[3.3.1.13,7]decane-1-methanamine"
+681,C8H11NO2,C1=CC(=C(C=C1CCN)O)O,"InChI=1S/C8H11NO2/c9-4-3-6-1-2-7(10)8(11)5-6/h1-2,5,10-11H,3-4,9H2",VYFYYTLLBUKUHU-UHFFFAOYSA-N,"4-(2-aminoethyl)benzene-1,2-diol","4-(2-Aminoethyl)benzene-1,2-diol"
+5610,C8H11NO,C1=CC(=CC=C1CCN)O,"InChI=1S/C8H11NO/c9-6-5-7-1-3-8(10)4-2-7/h1-4,10H,5-6,9H2",DZGWFCGJZKJUFP-UHFFFAOYSA-N,4-(2-aminoethyl)phenol,4-(2-Aminoethyl)phenol
+78479,C7H20N4,C(CNCCN)CNCCN,"InChI=1S/C7H20N4/c8-2-6-10-4-1-5-11-7-3-9/h10-11H,1-9H2",UWMHHZFHBCYGCV-UHFFFAOYSA-N,"N,N'-bis(2-aminoethyl)propane-1,3-diamine","N,N'-Bis(2-aminoethyl)propane-1,3-diamine"
+19990,C10H28N6,C(CNCCNCCNCCNCCN)N,"InChI=1S/C10H28N6/c11-1-3-13-5-7-15-9-10-16-8-6-14-4-2-12/h13-16H,1-12H2",LSHROXHEILXKHM-UHFFFAOYSA-N,"N'-[2-[2-[2-(2-aminoethylamino)ethylamino]ethylamino]ethyl]ethane-1,2-diamine","3,6,9,12-Tetraazatetradecane-1,14-diamine"
+2794246,C9H15N,C1C2CC3CC1CC3(C2)N,"InChI=1S/C9H15N/c10-9-4-6-1-7(5-9)3-8(9)2-6/h6-8H,1-5,10H2",NGGRFWRIBLQVEP-UHFFFAOYSA-N,"tricyclo[3.3.1.03,7]nonan-3-amine","Tricyclo[3.3.1.03,7]nonan-3-amine"
+25332,C10H17N,C1C2CC3CC1CC(C2)C3N,"InChI=1S/C10H17N/c11-10-8-2-6-1-7(4-8)5-9(10)3-6/h6-10H,1-5,11H2",QZWNXXINFABALM-UHFFFAOYSA-N,adamantan-2-amine,"Tricyclo[3.3.1.13,7]decan-2-amine"
+750,C2H5NO2,C(C(=O)O)N,"InChI=1S/C2H5NO2/c3-1-2(4)5/h1,3H2,(H,4,5)",DHMQDGOQFOQNFH-UHFFFAOYSA-N,2-aminoacetic acid,Aminoacetic acid
+75737,C10H13NO2,COC(=O)C(CC1=CC=CC=C1)N,"InChI=1S/C10H13NO2/c1-13-10(12)9(11)7-8-5-3-2-4-6-8/h2-6,9H,7,11H2,1H3",VSDUZFOSJDMAFZ-UHFFFAOYSA-N,methyl 2-amino-3-phenylpropanoate,Methyl 2-amino-3-phenylpropanoate
+617,C3H7NO3,C(C(C(=O)O)N)O,"InChI=1S/C3H7NO3/c4-2(1-5)3(6)7/h2,5H,1,4H2,(H,6,7)",MTCFGRXMJLQNBG-UHFFFAOYSA-N,2-amino-3-hydroxypropanoic acid,2-Amino-3-hydroxypropanoic acid
+205,C4H9NO3,CC(C(C(=O)O)N)O,"InChI=1S/C4H9NO3/c1-2(6)3(5)4(7)8/h2-3,6H,5H2,1H3,(H,7,8)",AYFVYJQAPQTCCC-UHFFFAOYSA-N,2-amino-3-hydroxybutanoic acid,2-Amino-3-hydroxybutanoic acid
+1148,C11H12N2O2,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N,"InChI=1S/C11H12N2O2/c12-9(11(14)15)5-7-6-13-10-4-2-1-3-8(7)10/h1-4,6,9,13H,5,12H2,(H,14,15)",QIVBCDIJIAJPQS-UHFFFAOYSA-N,2-amino-3-(1H-indol-3-yl)propanoic acid,2-Amino-3-(1H-indol-3-yl)propanoic acid
+1182,C5H11NO2,CC(C)C(C(=O)O)N,"InChI=1S/C5H11NO2/c1-3(2)4(6)5(7)8/h3-4H,6H2,1-2H3,(H,7,8)",KZSNJWFQEVHDMF-UHFFFAOYSA-N,2-amino-3-methylbutanoic acid,2-Amino-3-methylbutanoic acid
+866,C6H14N2O2,C(CCN)CC(C(=O)O)N,"InChI=1S/C6H14N2O2/c7-4-2-1-3-5(8)6(9)10/h5H,1-4,7-8H2,(H,9,10)",KDXKERNSBIXSRK-UHFFFAOYSA-N,"2,6-diaminohexanoic acid","2,6-Diaminohexanoic acid"
+587821,C8H8ClNO2,C1=CC(=CC=C1C(C(=O)O)N)Cl,"InChI=1S/C8H8ClNO2/c9-6-3-1-5(2-4-6)7(10)8(11)12/h1-4,7H,10H2,(H,11,12)",QGJGBYXRJVIYGA-UHFFFAOYSA-N,2-amino-2-(4-chlorophenyl)acetic acid,Amino(4-chlorophenyl)acetic acid
+602,C3H7NO2,CC(C(=O)O)N,"InChI=1S/C3H7NO2/c1-2(4)3(5)6/h2H,4H2,1H3,(H,5,6)",QNAYBMKLOCPYGJ-UHFFFAOYSA-N,2-aminopropanoic acid,2-Aminopropanoic acid
+232,C6H14N4O2,C(CC(C(=O)O)N)CN=C(N)N,"InChI=1S/C6H14N4O2/c7-4(5(11)12)2-1-3-10-6(8)9/h4H,1-3,7H2,(H,11,12)(H4,8,9,10)",ODKSFYDXXFIFQN-UHFFFAOYSA-N,2-amino-5-(diaminomethylideneamino)pentanoic acid,2-Amino-5-carbamimidamidopentanoic acid
+424,C4H7NO4,C(C(C(=O)O)N)C(=O)O,"InChI=1S/C4H7NO4/c5-2(4(8)9)1-3(6)7/h2H,1,5H2,(H,6,7)(H,8,9)",CKLJMWTZIZZHCS-UHFFFAOYSA-N,2-aminobutanedioic acid,2-Aminobutanedioic acid
+738,C5H10N2O3,C(CC(=O)N)C(C(=O)O)N,"InChI=1S/C5H10N2O3/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H2,7,8)(H,9,10)",ZDXPYRJPNDTMRX-UHFFFAOYSA-N,"2,5-diamino-5-oxopentanoic acid","2,5-Diamino-5-oxopentanoic acid"
+611,C5H9NO4,C(CC(=O)O)C(C(=O)O)N,"InChI=1S/C5H9NO4/c6-3(5(9)10)1-2-4(7)8/h3H,1-2,6H2,(H,7,8)(H,9,10)",WHUUTDBJXJRKMK-UHFFFAOYSA-N,2-aminopentanedioic acid,2-Aminopentanedioic acid
+876,C5H11NO2S,CSCCC(C(=O)O)N,"InChI=1S/C5H11NO2S/c1-9-3-2-4(6)5(7)8/h4H,2-3,6H2,1H3,(H,7,8)",FFEARJCKVFRZRR-UHFFFAOYSA-N,2-amino-4-methylsulfanylbutanoic acid,2-Amino-4-(methylsulfanyl)butanoic acid
+994,C9H11NO2,C1=CC=C(C=C1)CC(C(=O)O)N,"InChI=1S/C9H11NO2/c10-8(9(11)12)6-7-4-2-1-3-5-7/h1-5,8H,6,10H2,(H,11,12)",COLNVLDHVKWLRT-UHFFFAOYSA-N,2-amino-3-phenylpropanoic acid,2-Amino-3-phenylpropanoic acid
+7922,C4H4O3,C1CC(=O)OC1=O,InChI=1S/C4H4O3/c5-3-1-2-4(6)7-3/h1-2H2,RINCXYDBBGOEEQ-UHFFFAOYSA-N,"oxolane-2,5-dione","Dihydrofuran-2,5-dione"
+7918,C4H6O3,CC(=O)OC(=O)C,InChI=1S/C4H6O3/c1-3(5)7-4(2)6/h1-2H3,WFDIJRYMOXRFFG-UHFFFAOYSA-N,acetyl acetate,Acetic anhydride
+78232,C4H4O4,C1C(=O)OC(=O)CO1,InChI=1S/C4H4O4/c5-3-1-7-2-4(6)8-3/h1-2H2,PIYNUZCGMLCXKJ-UHFFFAOYSA-N,"1,4-dioxane-2,6-dione","1,4-Dioxane-2,6-dione"
+6811,C8H4O3,C1=CC=C2C(=C1)C(=O)OC2=O,InChI=1S/C8H4O3/c9-7-5-3-1-2-4-6(5)8(10)11-7/h1-4H,LGRFSURHDFAFJT-UHFFFAOYSA-N,"2-benzofuran-1,3-dione","2-Benzofuran-1,3-dione"
+239163,C6H6O5,C1C(C(=O)OC1=O)CC(=O)O,"InChI=1S/C6H6O5/c7-4(8)1-3-2-5(9)11-6(3)10/h3H,1-2H2,(H,7,8)",LYANEXCVXFZQFF-UHFFFAOYSA-N,"2-(2,5-dioxooxolan-3-yl)acetic acid","(2,5-Dioxotetrahydrofuran-3-yl)acetic acid"
+513918,C8H2F2O3,C1=CC(=C2C(=C1F)C(=O)OC2=O)F,InChI=1S/C8H2F2O3/c9-3-1-2-4(10)6-5(3)7(11)13-8(6)12/h1-2H,AVLRPSLTCCWJKC-UHFFFAOYSA-N,"4,7-difluoro-2-benzofuran-1,3-dione","4,7-Difluoro-2-benzofuran-1,3-dione"
+7964,C6H5Cl,C1=CC=C(C=C1)Cl,InChI=1S/C6H5Cl/c7-6-4-2-1-3-5-6/h1-5H,MVPPADPHJFYWMZ-UHFFFAOYSA-N,chlorobenzene,chlorobenzene
+7500,C8H10,CCC1=CC=CC=C1,"InChI=1S/C8H10/c1-2-8-6-4-3-5-7-8/h3-7H,2H2,1H3",YNQLUTRBYVCPMQ-UHFFFAOYSA-N,ethylbenzene,ethylbenzene
+7809,C8H10,CC1=CC=C(C=C1)C,"InChI=1S/C8H10/c1-7-3-5-8(2)6-4-7/h3-6H,1-2H3",URLKBWYHVLBVBO-UHFFFAOYSA-N,"1,4-xylene",p-xylene
+7961,C6H5Br,C1=CC=C(C=C1)Br,InChI=1S/C6H5Br/c7-6-4-2-1-3-5-6/h1-5H,QARVLSVVCXYDNA-UHFFFAOYSA-N,bromobenzene,bromobenzene
+7668,C9H12,CCCC1=CC=CC=C1,"InChI=1S/C9H12/c1-2-6-9-7-4-3-5-8-9/h3-5,7-8H,2,6H2,1H3",ODLMAHJVESYWTB-UHFFFAOYSA-N,propylbenzene,propylbenzene
+7810,C7H7Cl,CC1=CC=C(C=C1)Cl,"InChI=1S/C7H7Cl/c1-6-2-4-7(8)5-3-6/h2-5H,1H3",NPDACUSDTOMAMK-UHFFFAOYSA-N,1-chloro-4-methylbenzene,4-chlorotoluene
+996,C6H6O,C1=CC=C(C=C1)O,"InChI=1S/C6H6O/c7-6-4-2-1-3-5-6/h1-5,7H",ISWSIDIOOBJBQZ-UHFFFAOYSA-N,phenol,phenol
+7505,C7H5N,C1=CC=C(C=C1)C#N,InChI=1S/C7H5N/c8-6-7-4-2-1-3-5-7/h1-5H,JFDZBHWFFUWGJE-UHFFFAOYSA-N,benzonitrile,benzonitrile
+9732,C6H5FO,C1=CC(=CC=C1O)F,"InChI=1S/C6H5FO/c7-5-1-3-6(8)4-2-5/h1-4,8H",RHMPLDJJXGPMEX-UHFFFAOYSA-N,4-fluorophenol,4-fluorophenol
+244,C7H8O,C1=CC=C(C=C1)CO,"InChI=1S/C7H8O/c8-6-7-4-2-1-3-5-7/h1-5,8H,6H2",WVDDGKGOMKODPV-UHFFFAOYSA-N,phenylmethanol,benzyl alcohol
+11575,C6H5I,C1=CC=C(C=C1)I,InChI=1S/C6H5I/c7-6-4-2-1-3-5-6/h1-5H,SNHMUERNLJLMHN-UHFFFAOYSA-N,iodobenzene,iodobenzene
+7410,C8H8O,CC(=O)C1=CC=CC=C1,"InChI=1S/C8H8O/c1-7(9)8-5-3-2-4-6-8/h2-6H,1H3",KWOLFJPFCHCOCG-UHFFFAOYSA-N,1-phenylethanone,acetophenone
+342,C7H8O,CC1=CC(=CC=C1)O,"InChI=1S/C7H8O/c1-6-3-2-4-7(8)5-6/h2-5,8H,1H3",RLSSMJSEOOYNOY-UHFFFAOYSA-N,3-methylphenol,3-methylphenol
+7150,C8H8O2,COC(=O)C1=CC=CC=C1,"InChI=1S/C8H8O2/c1-10-8(9)7-5-3-2-4-6-7/h2-6H,1H3",QPJVMBTYPHYUOC-UHFFFAOYSA-N,methyl benzoate,methyl benzoate
+12167,C7H7ClO,COC1=CC=C(C=C1)Cl,"InChI=1S/C7H7ClO/c1-9-7-4-2-6(8)3-5-7/h2-5H,1H3",YRGAYAGBVIXNAQ-UHFFFAOYSA-N,1-chloro-4-methoxybenzene,4-chloroanisole
+6054,C8H10O,C1=CC=C(C=C1)CCO,"InChI=1S/C8H10O/c9-7-6-8-4-2-1-3-5-8/h1-5,9H,6-7H2",WRMNZCZEMHIOCP-UHFFFAOYSA-N,2-phenylethanol,phenethyl alcohol
+11476,C8H10O,CC1=CC(=CC=C1)CO,"InChI=1S/C8H10O/c1-7-3-2-4-8(5-7)6-9/h2-5,9H,6H2,1H3",JJCKHVUTVOPLBV-UHFFFAOYSA-N,(3-methylphenyl)methanol,3-methylbenzyl alcohol
+31242,C8H10O,CCC1=CC=C(C=C1)O,"InChI=1S/C8H10O/c1-2-7-3-5-8(9)6-4-7/h3-6,9H,2H2,1H3",HXDOZKJGKXYMEW-UHFFFAOYSA-N,4-ethylphenol,4-ethylphenol
+7948,C8H10O,CC1=CC(=CC(=C1)O)C,"InChI=1S/C8H10O/c1-6-3-7(2)5-8(9)4-6/h3-5,9H,1-2H3",TUAMRELNJMMDMT-UHFFFAOYSA-N,"3,5-dimethylphenol","3,5-dimethylphenol"
+7165,C9H10O2,CCOC(=O)C1=CC=CC=C1,"InChI=1S/C9H10O2/c1-2-11-9(10)8-6-4-3-5-7-8/h3-7H,2H2,1H3",MTZQAGJQAFMTAQ-UHFFFAOYSA-N,ethyl benzoate,ethyl benzoate
+33094,C9H10O2,CC1=CC=CC=C1C(=O)OC,"InChI=1S/C9H10O2/c1-7-5-3-4-6-8(7)9(10)11-2/h3-6H,1-2H3",WVWZECQNFWFVFW-UHFFFAOYSA-N,methyl 2-methylbenzoate,methyl 2-methylbenzoate
+931,C10H8,C1=CC=C2C=CC=CC2=C1,InChI=1S/C10H8/c1-2-6-10-8-4-3-7-9(10)5-1/h1-8H,UFWIBTONFRDIAS-UHFFFAOYSA-N,naphthalene,naphthalene
+7933,C6H5ClO,C1=CC(=CC(=C1)Cl)O,"InChI=1S/C6H5ClO/c7-5-2-1-3-6(8)4-5/h1-4,8H",HORNXRXVQWOLPJ-UHFFFAOYSA-N,3-chlorophenol,3-chlorophenol
+7473,C7H7NO2,CC1=CC=C(C=C1)[N+](=O)[O-],"InChI=1S/C7H7NO2/c1-6-2-4-7(5-3-6)8(9)10/h2-5H,1H3",ZPTVNYMJQHSSEA-UHFFFAOYSA-N,1-methyl-4-nitrobenzene,4-nitrotoluene
+7467,C8H7ClO,CC(=O)C1=CC=C(C=C1)Cl,"InChI=1S/C8H7ClO/c1-6(10)7-2-4-8(9)5-3-7/h2-5H,1H3",BUZYGTVTZYSBCU-UHFFFAOYSA-N,1-(4-chlorophenyl)ethanone,4-chloroacetophenone
+11563,C6H5BrO,C1=CC(=CC(=C1)Br)O,"InChI=1S/C6H5BrO/c7-5-2-1-3-6(8)4-5/h1-4,8H",MNOJRWOWILAHAV-UHFFFAOYSA-N,3-bromophenol,3-bromophenol
+7002,C11H10,CC1=CC=CC2=CC=CC=C12,"InChI=1S/C11H10/c1-9-5-4-7-10-6-2-3-8-11(9)10/h2-8H,1H3",QPUYECUOLPXSFR-UHFFFAOYSA-N,1-methylnaphthalene,1-methylnaphthalene
+7416,C6H5NO2,C1=CC=C(C=C1)[N+](=O)[O-],InChI=1S/C6H5NO2/c8-7(9)6-4-2-1-3-5-6/h1-5H,LQNUZADURLCDLV-UHFFFAOYSA-N,nitrobenzene,nitrobenzene
+5974,C19H42BrN,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],"InChI=1S/C19H42N.BrH/c1-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20(2,3)4;/h5-19H2,1-4H3;1H/q+1;/p-1",LZZYPRNAOMGNLH-UHFFFAOYSA-M,hexadecyl(trimethyl)azanium;bromide,CTAB
+6224,C6H5Na3O7,C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O.[Na+].[Na+].[Na+],"InChI=1S/C6H8O7.3Na/c7-3(8)1-6(13,5(11)12)2-4(9)10;;;/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12);;;/q;3*+1/p-3",HRXKRNGNAMMEHJ-UHFFFAOYSA-K,"trisodium;2-hydroxypropane-1,2,3-tricarboxylate",sodium citrate
+543502,C11H22O2S,C(CCCCCS)CCCCC(=O)O,"InChI=1S/C11H22O2S/c12-11(13)9-7-5-3-1-2-4-6-8-10-14/h14H,1-10H2,(H,12,13)",GWOLZNVIRIHJHB-UHFFFAOYSA-N,11-sulfanylundecanoic acid,11-mercaptoundecanoic acid
+6917,C6H9NO,C=CN1CCCC1=O,"InChI=1S/C6H9NO/c1-2-7-5-3-4-6(7)8/h2H,1,3-5H2",WHNWPMSKXPGLAX-UHFFFAOYSA-N,1-ethenylpyrrolidin-2-one,PVP
+1133,C2H4O2S,C(C(=O)O)S,"InChI=1S/C2H4O2S/c3-2(4)1-5/h5H,1H2,(H,3,4)",CWERGRDVMFNCDR-UHFFFAOYSA-N,2-sulfanylacetic acid,thioglycolic acid
+439341,C12H22O11,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O,"InChI=1S/C12H22O11/c13-1-3-5(15)6(16)9(19)12(22-3)23-10-4(2-14)21-11(20)8(18)7(10)17/h3-20H,1-2H2/t3-,4-,5-,6+,7-,8-,9-,10-,11+,12-/m1/s1",GUBGYTABKSRVRQ-ASMJPISFSA-N,"(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-[(2R,3S,4R,5R,6S)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxane-3,4,5-triol",potato starch
+31348,C6H5O7-3,C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O,"InChI=1S/C6H8O7/c7-3(8)1-6(13,5(11)12)2-4(9)10/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12)/p-3",KRKNYBCHXYNGOX-UHFFFAOYSA-K,"2-hydroxypropane-1,2,3-tricarboxylate",citrate
+6917,C6H9NO,C=CN1CCCC1=O,"InChI=1S/C6H9NO/c1-2-7-5-3-4-6(7)8/h2H,1,3-5H2",WHNWPMSKXPGLAX-UHFFFAOYSA-N,1-ethenylpyrrolidin-2-one,polyvinylpyrrolidone
+3748064,C5H11NO2,C1COC(CO1)CN,"InChI=1S/C5H11NO2/c6-3-5-4-7-1-2-8-5/h5H,1-4,6H2",PREOONMJIVUPMI-UHFFFAOYSA-N,"1,4-dioxan-2-ylmethanamine","1,4-dioxan-2-ylmethanamine"
+91550,C3H5NO2,C1C(O1)C(=O)N,"InChI=1S/C3H5NO2/c4-3(5)2-1-6-2/h2H,1H2,(H2,4,5)",FMAZQSYXRGRESX-UHFFFAOYSA-N,oxirane-2-carboxamide,glycidamide
+5355751,C5H9NO,CC(=CC(=O)C)N,"InChI=1S/C5H9NO/c1-4(6)3-5(2)7/h3H,6H2,1-2H3/b4-3-",OSLAYKKXCYSJSF-ARJAWSKDSA-N,(Z)-4-aminopent-3-en-2-one,4-amino-3-penten-2-one
+5367854,C5H9NO,CC(=CC(=O)C)N,"InChI=1S/C5H9NO/c1-4(6)3-5(2)7/h3H,6H2,1-2H3/b4-3+",OSLAYKKXCYSJSF-ONEGZZNKSA-N,(E)-4-aminopent-3-en-2-one,4-amino-3-penten-2-one
+136873,C5H9NO,CC(=CC(=O)C)N,"InChI=1S/C5H9NO/c1-4(6)3-5(2)7/h3H,6H2,1-2H3",OSLAYKKXCYSJSF-UHFFFAOYSA-N,4-aminopent-3-en-2-one,4-amino-3-penten-2-one
+16773849,C7H9N3O,C1=CC(=CC(=C1)N)C(=NO)N,"InChI=1S/C7H9N3O/c8-6-3-1-2-5(4-6)7(9)10-11/h1-4,11H,8H2,(H2,9,10)",OPGWBTKZYLRPRW-UHFFFAOYSA-N,3-amino-N'-hydroxybenzenecarboximidamide,3-aminobenzamide oxime
+17749886,C3H10ClNO2S,CS(=O)(=O)CCN.Cl,"InChI=1S/C3H9NO2S.ClH/c1-7(5,6)3-2-4;/h2-4H2,1H3;1H",AMYYUKGKCJKCBI-UHFFFAOYSA-N,2-methylsulfonylethanamine;hydrochloride,2-aminoethylmethylsulfone hydrochloride
+445639,C18H34O2,CCCCCCCCC=CCCCCCCCC(=O)O,"InChI=1S/C18H34O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h9-10H,2-8,11-17H2,1H3,(H,19,20)/b10-9-",ZQPPMHVWECSIRJ-KTKRTIGZSA-N,(Z)-octadec-9-enoic acid,oleic acid
+379,C8H16O2,CCCCCCCC(=O)O,"InChI=1S/C8H16O2/c1-2-3-4-5-6-7-8(9)10/h2-7H2,1H3,(H,9,10)",WWZKQHOCKIZLMA-UHFFFAOYSA-N,octanoic acid,octanoic acid
+6108,C7H5NO4,C1=CC(=CC=C1C(=O)O)[N+](=O)[O-],"InChI=1S/C7H5NO4/c9-7(10)5-1-3-6(4-2-5)8(11)12/h1-4H,(H,9,10)",OTLNPYWUJOZPPA-UHFFFAOYSA-N,4-nitrobenzoic acid,para-nitrobenzoic acid
+243,C7H6O2,C1=CC=C(C=C1)C(=O)O,"InChI=1S/C7H6O2/c8-7(9)6-4-2-1-3-5-6/h1-5H,(H,8,9)",WPYMKLBDIGXBTP-UHFFFAOYSA-N,benzoic acid,benzoic acid
+12035,C5H9NO3S,CC(=O)NC(CS)C(=O)O,"InChI=1S/C5H9NO3S/c1-3(7)6-4(2-10)5(8)9/h4,10H,2H2,1H3,(H,6,7)(H,8,9)/t4-/m0/s1",PWKSKIMOESPYIA-BYPYZUCNSA-N,(2R)-2-acetamido-3-sulfanylpropanoic acid,N-Acetyl-L-cysteine
+12841471,C6H15NS,C(CCCS)CCN,"InChI=1S/C6H15NS/c7-5-3-1-2-4-6-8/h8H,1-7H2",WYYXDSQOPIGZPU-UHFFFAOYSA-N,6-aminohexane-1-thiol,6-Amino-1-hexanethiol
+10352850,C11H25NS,C(CCCCCN)CCCCCS,"InChI=1S/C11H25NS/c12-10-8-6-4-2-1-3-5-7-9-11-13/h13H,1-12H2",DIXRLQJYISYSEL-UHFFFAOYSA-N,11-aminoundecane-1-thiol,11-Amino-1-undecanethiol
+31348,C6H5O7-3,C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])O,"InChI=1S/C6H8O7/c7-3(8)1-6(13,5(11)12)2-4(9)10/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12)/p-3",KRKNYBCHXYNGOX-UHFFFAOYSA-K,"2-hydroxypropane-1,2,3-tricarboxylate",Citrate
+5974,C19H42BrN,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],"InChI=1S/C19H42N.BrH/c1-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20(2,3)4;/h5-19H2,1-4H3;1H/q+1;/p-1",LZZYPRNAOMGNLH-UHFFFAOYSA-M,hexadecyl(trimethyl)azanium;bromide,Hexadecyltrimethylammonium bromide
+10154203,C7H16O4,CC(COCCO)OCCO,"InChI=1S/C7H16O4/c1-7(11-5-3-9)6-10-4-2-8/h7-9H,2-6H2,1H3",OQNWUUGFAWNUME-UHFFFAOYSA-N,2-[2-(2-hydroxyethoxy)propoxy]ethanol,Pluronic F-127
+8926,C16H35N,CCCCCCCCCCCCCCCCN,"InChI=1S/C16H35N/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17/h2-17H2,1H3",FJLUATLTXUNBOT-UHFFFAOYSA-N,hexadecan-1-amine,Hexadecylamine
+1133,C2H4O2S,C(C(=O)O)S,"InChI=1S/C2H4O2S/c3-2(4)1-5/h5H,1H2,(H,3,4)",CWERGRDVMFNCDR-UHFFFAOYSA-N,2-sulfanylacetic acid,Mercaptoacetic acid
+95738,C7H6O2S,C1=CC(=CC=C1C(=O)O)S,"InChI=1S/C7H6O2S/c8-7(9)5-1-3-6(10)4-2-5/h1-4,10H,(H,8,9)",LMJXSOYPAOSIPZ-UHFFFAOYSA-N,4-sulfanylbenzoic acid,4-Mercaptobenzoic acid
+598,C2H6O3S2,C(CS(=O)(=O)O)S,"InChI=1S/C2H6O3S2/c3-7(4,5)2-1-6/h6H,1-2H2,(H,3,4,5)",ZNEWHQLOPFWXOF-UHFFFAOYSA-N,2-sulfanylethanesulfonic acid,2-Mercaptoethanesulfonate
+4077,C2H5O3S2-,C(CS(=O)(=O)[O-])S,"InChI=1S/C2H6O3S2/c3-7(4,5)2-1-6/h6H,1-2H2,(H,3,4,5)/p-1",ZNEWHQLOPFWXOF-UHFFFAOYSA-M,2-sulfanylethanesulfonate,2-Mercaptoethanesulfonate
+329113,C6H12O2S,C(CCC(=O)O)CCS,"InChI=1S/C6H12O2S/c7-6(8)4-2-1-3-5-9/h9H,1-5H2,(H,7,8)",CMNQZZPAVNBESS-UHFFFAOYSA-N,6-sulfanylhexanoic acid,6-Mercaptohexanoic acid
+3522585,C16H32O2S,C(CCCCCCCC(=O)O)CCCCCCCS,"InChI=1S/C16H32O2S/c17-16(18)14-12-10-8-6-4-2-1-3-5-7-9-11-13-15-19/h19H,1-15H2,(H,17,18)",INOAASCWQMFJQA-UHFFFAOYSA-N,16-sulfanylhexadecanoic acid,16-Mercaptohexadecanoic acid
+6514,C3H6O2S,C(CS)C(=O)O,"InChI=1S/C3H6O2S/c4-3(5)1-2-6/h6H,1-2H2,(H,4,5)",DKIDEFUBRARXTE-UHFFFAOYSA-N,3-sulfanylpropanoic acid,3-Mercaptopropionic acid
+6268,C4H6O4S,C(C(C(=O)O)S)C(=O)O,"InChI=1S/C4H6O4S/c5-3(6)1-2(9)4(7)8/h2,9H,1H2,(H,5,6)(H,7,8)",NJRXVEJTAYWCQJ-UHFFFAOYSA-N,2-sulfanylbutanedioic acid,Mercaptosuccinic acid
+543502,C11H22O2S,C(CCCCCS)CCCCC(=O)O,"InChI=1S/C11H22O2S/c12-11(13)9-7-5-3-1-2-4-6-8-10-14/h14H,1-10H2,(H,12,13)",GWOLZNVIRIHJHB-UHFFFAOYSA-N,11-sulfanylundecanoic acid,11-Mercaptoundecanoic acid
+15793,C18H39N,CCCCCCCCCCCCCCCCCCN,"InChI=1S/C18H39N/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19/h2-19H2,1H3",REYJJPSVUYRZGE-UHFFFAOYSA-N,octadecan-1-amine,Octadecylamine
+6140,C9H11NO2,C1=CC=C(C=C1)CC(C(=O)O)N,"InChI=1S/C9H11NO2/c10-8(9(11)12)6-7-4-2-1-3-5-7/h1-5,8H,6,10H2,(H,11,12)/t8-/m0/s1",COLNVLDHVKWLRT-QMMMGPOBSA-N,(2S)-2-amino-3-phenylpropanoic acid,L-Phenylalanine
+11199,C2H4O,C=CO,"InChI=1S/C2H4O/c1-2-3/h2-3H,1H2",IMROMDMJAWUWLK-UHFFFAOYSA-N,ethenol,Poly(vinyl alcohol)
+5281,C18H36O2,CCCCCCCCCCCCCCCCCC(=O)O,"InChI=1S/C18H36O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h2-17H2,1H3,(H,19,20)",QIQXTHQIDYTFRH-UHFFFAOYSA-N,octadecanoic acid,Stearic acid
+5483,C5H9NO3S,CC(C(=O)NCC(=O)O)S,"InChI=1S/C5H9NO3S/c1-3(10)5(9)6-2-4(7)8/h3,10H,2H2,1H3,(H,6,9)(H,7,8)",YTGJWQPHMWSCST-UHFFFAOYSA-N,2-(2-sulfanylpropanoylamino)acetic acid,N-(2-Mercaptopropionyl)glycine
+24261,O2Si,O=[Si]=O,InChI=1S/O2Si/c1-3-2,VYPSYNLAJGMNEJ-UHFFFAOYSA-N,dioxosilane,silica (SIO2)
+866,C6H14N2O2,C(CCN)CC(C(=O)O)N,"InChI=1S/C6H14N2O2/c7-4-2-1-3-5(8)6(9)10/h5H,1-4,7-8H2,(H,9,10)",KDXKERNSBIXSRK-UHFFFAOYSA-N,"2,6-diaminohexanoic acid",NCCCCC(N)C(O)=O
+587821,C8H8ClNO2,C1=CC(=CC=C1C(C(=O)O)N)Cl,"InChI=1S/C8H8ClNO2/c9-6-3-1-5(2-4-6)7(10)8(11)12/h1-4,7H,10H2,(H,11,12)",QGJGBYXRJVIYGA-UHFFFAOYSA-N,2-amino-2-(4-chlorophenyl)acetic acid,NC(C(O)=O)c1ccc(Cl)cc1
+0,,,,,,CC(NC(=O)OC3C1C=CC=CC1C2C=CC=CC23)C(=O)Nc4ccccc4
+0,,,,,,CCOC(=O)c4ccc(NC(=O)C(C)NC(=O)OC3C1C=CC=CC1C2C=CC=CC23)cc4
+303942,C9H12N2O,CC(C(=O)NC1=CC=CC=C1)N,"InChI=1S/C9H12N2O/c1-7(10)9(12)11-8-5-3-2-4-6-8/h2-7H,10H2,1H3,(H,11,12)",RUBYQYMLYZMHQR-UHFFFAOYSA-N,2-amino-N-phenylpropanamide,CC(N)C(=O)Nc1ccccc1
+3496505,C10H14N2O,CC(C(=O)NCC1=CC=CC=C1)N,"InChI=1S/C10H14N2O/c1-8(11)10(13)12-7-9-5-3-2-4-6-9/h2-6,8H,7,11H2,1H3,(H,12,13)",VRHPVAHXPQMOJZ-UHFFFAOYSA-N,2-amino-N-benzylpropanamide,CC(N)C(=O)NCc1ccccc1
+0,,,,,,CCCCNC(=O)C(C)NC(=O)c1cccc(N(=O)=O)c1
+47099540,C14H19ClN2O2,CCCCNC(=O)C(C)NC(=O)C1=CC=C(C=C1)Cl,"InChI=1S/C14H19ClN2O2/c1-3-4-9-16-13(18)10(2)17-14(19)11-5-7-12(15)8-6-11/h5-8,10H,3-4,9H2,1-2H3,(H,16,18)(H,17,19)",QEYFWMLKWOQGJG-UHFFFAOYSA-N,N-[1-(butylamino)-1-oxopropan-2-yl]-4-chlorobenzamide,CCCCNC(=O)C(C)NC(=O)c1ccc(Cl)cc1
+0,,,,,,CCCCNC(=O)C(C)NS(=O)(=O)c1cccc(N(=O)=O)c1
+0,,,,,,CCCCN(CCCC)C(=O)C(C)NC(=O)c1ccc(Cl)cc1
+0,,,,,,CCCCN(CCCC)C(=O)C(C)NS(=O)(=O)c1ccccc1
+0,,,,,,CCCCN(CCCC)C(=O)C(C)NS(=O)(=O)c1ccc(C)cc1
+0,,,,,,CCCCN(CCCC)C(=O)C(C)NS(=O)(=O)c1cccc(N(=O)=O)c1
+24101749,C16H22N2O2,CC(C(=O)NC1CCCCC1)NC(=O)C2=CC=CC=C2,"InChI=1S/C16H22N2O2/c1-12(15(19)18-14-10-6-3-7-11-14)17-16(20)13-8-4-2-5-9-13/h2,4-5,8-9,12,14H,3,6-7,10-11H2,1H3,(H,17,20)(H,18,19)",OGLGYHVHKPAWKX-UHFFFAOYSA-N,N-[1-(cyclohexylamino)-1-oxopropan-2-yl]benzamide,CC(NC(=O)c1ccccc1)C(=O)NC2CCCCC2
+51148039,C16H21N3O4,CC(C(=O)NC1CCCCC1)NC(=O)C2=CC(=CC=C2)[N+](=O)[O-],"InChI=1S/C16H21N3O4/c1-11(15(20)18-13-7-3-2-4-8-13)17-16(21)12-6-5-9-14(10-12)19(22)23/h5-6,9-11,13H,2-4,7-8H2,1H3,(H,17,21)(H,18,20)",PPPPTMYETXWEBI-UHFFFAOYSA-N,N-[1-(cyclohexylamino)-1-oxopropan-2-yl]-3-nitrobenzamide,CC(NC(=O)c1cccc(N(=O)=O)c1)C(=O)NC2CCCCC2
+4528484,C15H22N2O3S,CC(C(=O)NC1CCCCC1)NS(=O)(=O)C2=CC=CC=C2,"InChI=1S/C15H22N2O3S/c1-12(15(18)16-13-8-4-2-5-9-13)17-21(19,20)14-10-6-3-7-11-14/h3,6-7,10-13,17H,2,4-5,8-9H2,1H3,(H,16,18)",NIGWLYNGGPHGND-UHFFFAOYSA-N,2-(benzenesulfonamido)-N-cyclohexylpropanamide,CC(NS(=O)(=O)c1ccccc1)C(=O)NC2CCCCC2
+0,,,,,,CC(NS(=O)(=O)c1cccc(N(=O)=O)c1)C(=O)NC2CCCCC2
+51148259,C16H15N3O4,CC(C(=O)NC1=CC=CC=C1)NC(=O)C2=CC(=CC=C2)[N+](=O)[O-],"InChI=1S/C16H15N3O4/c1-11(15(20)18-13-7-3-2-4-8-13)17-16(21)12-6-5-9-14(10-12)19(22)23/h2-11H,1H3,(H,17,21)(H,18,20)",QYSPLHMKDQEYKI-UHFFFAOYSA-N,N-(1-anilino-1-oxopropan-2-yl)-3-nitrobenzamide,CC(NC(=O)c1cccc(N(=O)=O)c1)C(=O)Nc2ccccc2
+51148276,C16H15ClN2O2,CC(C(=O)NC1=CC=CC=C1)NC(=O)C2=CC=C(C=C2)Cl,"InChI=1S/C16H15ClN2O2/c1-11(15(20)19-14-5-3-2-4-6-14)18-16(21)12-7-9-13(17)10-8-12/h2-11H,1H3,(H,18,21)(H,19,20)",NHTDHCPULIIAGG-UHFFFAOYSA-N,N-(1-anilino-1-oxopropan-2-yl)-4-chlorobenzamide,CC(NC(=O)c1ccc(Cl)cc1)C(=O)Nc2ccccc2
+3618978,C15H16N2O3S,CC(C(=O)NC1=CC=CC=C1)NS(=O)(=O)C2=CC=CC=C2,"InChI=1S/C15H16N2O3S/c1-12(15(18)16-13-8-4-2-5-9-13)17-21(19,20)14-10-6-3-7-11-14/h2-12,17H,1H3,(H,16,18)",KYGTWPNVTFXOBW-UHFFFAOYSA-N,2-(benzenesulfonamido)-N-phenylpropanamide,CC(NS(=O)(=O)c1ccccc1)C(=O)Nc2ccccc2
+5205930,C16H18N2O3S,CC1=CC=C(C=C1)S(=O)(=O)NC(C)C(=O)NC2=CC=CC=C2,"InChI=1S/C16H18N2O3S/c1-12-8-10-15(11-9-12)22(20,21)18-13(2)16(19)17-14-6-4-3-5-7-14/h3-11,13,18H,1-2H3,(H,17,19)",RQSWSXREMJDMHG-UHFFFAOYSA-N,2-[(4-methylphenyl)sulfonylamino]-N-phenylpropanamide,Cc2ccc(S(=O)(=O)NC(C)C(=O)Nc1ccccc1)cc2
+0,,,,,,CC(NS(=O)(=O)c1cccc(N(=O)=O)c1)C(=O)Nc2ccccc2
+46744931,C17H17ClN2O2,CC(C(=O)NCC1=CC=CC=C1)NC(=O)C2=CC=C(C=C2)Cl,"InChI=1S/C17H17ClN2O2/c1-12(16(21)19-11-13-5-3-2-4-6-13)20-17(22)14-7-9-15(18)10-8-14/h2-10,12H,11H2,1H3,(H,19,21)(H,20,22)",WRGSMLYGCIHJOA-UHFFFAOYSA-N,N-[1-(benzylamino)-1-oxopropan-2-yl]-4-chlorobenzamide,CC(NC(=O)c1ccc(Cl)cc1)C(=O)NCc2ccccc2
+0,,,,,,CC(NS(=O)(=O)c1cccc(N(=O)=O)c1)C(=O)NCc2ccccc2
+51147965,C14H17N3O4,CC(C(=O)N1CCCC1)NC(=O)C2=CC(=CC=C2)[N+](=O)[O-],"InChI=1S/C14H17N3O4/c1-10(14(19)16-7-2-3-8-16)15-13(18)11-5-4-6-12(9-11)17(20)21/h4-6,9-10H,2-3,7-8H2,1H3,(H,15,18)",RPAKDCYGEKRMCM-UHFFFAOYSA-N,3-nitro-N-(1-oxo-1-pyrrolidin-1-ylpropan-2-yl)benzamide,CC(NC(=O)c1cccc(N(=O)=O)c1)C(=O)N2CCCC2
+47097636,C14H17ClN2O2,CC(C(=O)N1CCCC1)NC(=O)C2=CC=C(C=C2)Cl,"InChI=1S/C14H17ClN2O2/c1-10(14(19)17-8-2-3-9-17)16-13(18)11-4-6-12(15)7-5-11/h4-7,10H,2-3,8-9H2,1H3,(H,16,18)",WINXGOCJPRCJSG-UHFFFAOYSA-N,4-chloro-N-(1-oxo-1-pyrrolidin-1-ylpropan-2-yl)benzamide,CC(NC(=O)c1ccc(Cl)cc1)C(=O)N2CCCC2
+0,,,,,,CC(NS(=O)(=O)c1cccc(N(=O)=O)c1)C(=O)N2CCCC2
+60407577,C19H19ClN2O4,CCOC(=O)C1=CC=C(C=C1)NC(=O)C(C)NC(=O)C2=CC=C(C=C2)Cl,"InChI=1S/C19H19ClN2O4/c1-3-26-19(25)14-6-10-16(11-7-14)22-17(23)12(2)21-18(24)13-4-8-15(20)9-5-13/h4-12H,3H2,1-2H3,(H,21,24)(H,22,23)",YWRCPSRSGNWABQ-UHFFFAOYSA-N,ethyl 4-[2-[(4-chlorobenzoyl)amino]propanoylamino]benzoate,CCOC(=O)c2ccc(NC(=O)C(C)NC(=O)c1ccc(Cl)cc1)cc2
+112762823,C17H14ClF3N2O2,CC(C(=O)NC1=CC=CC(=C1)C(F)(F)F)NC(=O)C2=CC=C(C=C2)Cl,"InChI=1S/C17H14ClF3N2O2/c1-10(22-16(25)11-5-7-13(18)8-6-11)15(24)23-14-4-2-3-12(9-14)17(19,20)21/h2-10H,1H3,(H,22,25)(H,23,24)",FKRAICHLVMHBKL-UHFFFAOYSA-N,4-chloro-N-[1-oxo-1-[3-(trifluoromethyl)anilino]propan-2-yl]benzamide,CC(NC(=O)c1ccc(Cl)cc1)C(=O)Nc2cccc(C(F)(F)F)c2
+3393128,C16H15F3N2O3S,CC(C(=O)NC1=CC=CC(=C1)C(F)(F)F)NS(=O)(=O)C2=CC=CC=C2,"InChI=1S/C16H15F3N2O3S/c1-11(21-25(23,24)14-8-3-2-4-9-14)15(22)20-13-7-5-6-12(10-13)16(17,18)19/h2-11,21H,1H3,(H,20,22)",ACZQZTOFAIRAJP-UHFFFAOYSA-N,2-(benzenesulfonamido)-N-[3-(trifluoromethyl)phenyl]propanamide,CC(NS(=O)(=O)c1ccccc1)C(=O)Nc2cccc(C(F)(F)F)c2
+222,H3N,N,InChI=1S/H3N/h1H3,QGZKDVFQNNGYKY-UHFFFAOYSA-N,azane,N -acetylcysteine
+243,C7H6O2,C1=CC=C(C=C1)C(=O)O,"InChI=1S/C7H6O2/c8-7(9)6-4-2-1-3-5-6/h1-5H,(H,8,9)",WPYMKLBDIGXBTP-UHFFFAOYSA-N,benzoic acid,c1cccc(c1)C(O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(NC(=O)OC1c2c(c3c1cccc3)cccc2)C(=O)O)=O
+21805890,C16H15NO4,C1=CC=C(C=C1)C(=O)OC2=CC=C(C=C2)CC(C(=O)O)N,"InChI=1S/C16H15NO4/c17-14(15(18)19)10-11-6-8-13(9-7-11)21-16(20)12-4-2-1-3-5-12/h1-9,14H,10,17H2,(H,18,19)",SYGLLRRQBPFCKS-UHFFFAOYSA-N,2-amino-3-(4-benzoyloxyphenyl)propanoic acid,c1cccc(c1)C(Oc1ccc(cc1)CC(N)C(=O)O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NCCCC)=O)NC(OC1c2c(cccc2)c2c1cccc2)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(N(CCCC)CCCC)=O)NC(OC1c2c(cccc2)c2c1cccc2)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NC1CCCCC1)=O)NC(OC1c2c(cccc2)c2c1cccc2)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1ccccc1)=O)NC(OC1c2c(cccc2)c2c1cccc2)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NCc1ccccc1)=O)NC(OC1c2c(cccc2)c2c1cccc2)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(N1CCCC1)=O)NC(OC1c2c(cccc2)c2c1cccc2)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1ccc(C(=O)OCC)cc1)=O)NC(OC1c2c(cccc2)c2c1cccc2)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1cccc(c1)C(F)(F)F)=O)NC(OC1c2c(cccc2)c2c1cccc2)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NCCCC)=O)N[H])=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(N(CCCC)CCCC)=O)N[H])=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NC1CCCCC1)=O)N[H])=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1ccccc1)=O)N[H])=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NCc1ccccc1)=O)N[H])=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(N1CCCC1)=O)N[H])=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1ccc(C(=O)OCC)cc1)=O)N[H])=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1cccc(c1)C(F)(F)F)=O)N[H])=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NCCCC)=O)NC(C)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NCCCC)=O)NC(c1ccccc1)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NCCCC)=O)NC(Cc1ccccc1)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NCCCC)=O)NC(c1cc(ccc1)[N+](=O)[O-])=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NCCCC)=O)NC(c1ccc(cc1)Cl)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NCCCC)=O)NS(c1ccccc1)(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NCCCC)=O)NS(c1ccc(cc1)C)(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NCCCC)=O)NS(c1cccc(c1)[N+](=O)[O-])(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(N(CCCC)CCCC)=O)NC(C)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(N(CCCC)CCCC)=O)NC(c1ccccc1)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(N(CCCC)CCCC)=O)NC(Cc1ccccc1)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(N(CCCC)CCCC)=O)NC(c1cc(ccc1)[N+](=O)[O-])=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(N(CCCC)CCCC)=O)NC(c1ccc(cc1)Cl)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(N(CCCC)CCCC)=O)NS(c1ccccc1)(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(N(CCCC)CCCC)=O)NS(c1ccc(cc1)C)(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(N(CCCC)CCCC)=O)NS(c1cccc(c1)[N+](=O)[O-])(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NC1CCCCC1)=O)NC(C)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NC1CCCCC1)=O)NC(c1ccccc1)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NC1CCCCC1)=O)NC(Cc1ccccc1)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NC1CCCCC1)=O)NC(c1cc(ccc1)[N+](=O)[O-])=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NC1CCCCC1)=O)NC(c1ccc(cc1)Cl)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NC1CCCCC1)=O)NS(c1ccccc1)(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NC1CCCCC1)=O)NS(c1ccc(cc1)C)(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NC1CCCCC1)=O)NS(c1cccc(c1)[N+](=O)[O-])(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1ccccc1)=O)NC(C)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1ccccc1)=O)NC(c1ccccc1)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1ccccc1)=O)NC(Cc1ccccc1)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1ccccc1)=O)NC(c1cc(ccc1)[N+](=O)[O-])=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1ccccc1)=O)NC(c1ccc(cc1)Cl)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1ccccc1)=O)NS(c1ccccc1)(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1ccccc1)=O)NS(c1ccc(cc1)C)(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1ccccc1)=O)NS(c1cccc(c1)[N+](=O)[O-])(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NCc1ccccc1)=O)NC(C)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NCc1ccccc1)=O)NC(c1ccccc1)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NCc1ccccc1)=O)NC(Cc1ccccc1)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NCc1ccccc1)=O)NC(c1cc(ccc1)[N+](=O)[O-])=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NCc1ccccc1)=O)NC(c1ccc(cc1)Cl)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NCc1ccccc1)=O)NS(c1ccccc1)(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NCc1ccccc1)=O)NS(c1ccc(cc1)C)(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(NCc1ccccc1)=O)NS(c1cccc(c1)[N+](=O)[O-])(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(N1CCCC1)=O)NC(C)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(N1CCCC1)=O)NC(c1ccccc1)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(N1CCCC1)=O)NC(Cc1ccccc1)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(N1CCCC1)=O)NC(c1cc(ccc1)[N+](=O)[O-])=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(N1CCCC1)=O)NC(c1ccc(cc1)Cl)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(N1CCCC1)=O)NS(c1ccccc1)(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(N1CCCC1)=O)NS(c1ccc(cc1)C)(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(N1CCCC1)=O)NS(c1cccc(c1)[N+](=O)[O-])(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1ccc(C(=O)OCC)cc1)=O)NC(C)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1ccc(C(=O)OCC)cc1)=O)NC(c1ccccc1)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1ccc(C(=O)OCC)cc1)=O)NC(Cc1ccccc1)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1ccc(C(=O)OCC)cc1)=O)NC(c1cc(ccc1)[N+](=O)[O-])=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1ccc(C(=O)OCC)cc1)=O)NC(c1ccc(cc1)Cl)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1ccc(C(=O)OCC)cc1)=O)NS(c1ccccc1)(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1ccc(C(=O)OCC)cc1)=O)NS(c1ccc(cc1)C)(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1ccc(C(=O)OCC)cc1)=O)NS(c1cccc(c1)[N+](=O)[O-])(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1cccc(c1)C(F)(F)F)=O)NC(C)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1cccc(c1)C(F)(F)F)=O)NC(c1ccccc1)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1cccc(c1)C(F)(F)F)=O)NC(Cc1ccccc1)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1cccc(c1)C(F)(F)F)=O)NC(c1cc(ccc1)[N+](=O)[O-])=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1cccc(c1)C(F)(F)F)=O)NC(c1ccc(cc1)Cl)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1cccc(c1)C(F)(F)F)=O)NS(c1ccccc1)(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1cccc(c1)C(F)(F)F)=O)NS(c1ccc(cc1)C)(=O)=O)=O
+0,,,,,,c1cccc(c1)C(Oc1ccc(cc1)CC(C(Nc1cccc(c1)C(F)(F)F)=O)NS(c1cccc(c1)[N+](=O)[O-])(=O)=O)=O
